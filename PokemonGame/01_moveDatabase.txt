@@ -1,0 +1,9 @@
+Tackle, 30, Normal
+Scratch, 35, Normal
+Vine Whip, 45, Grass
+Ember, 45, Fire
+Water Gun, 45, Water
+String Shot, 0, Bug, true, false, Speed, 0.85
+Bug Bite, 40, Bug
+Leer, 0, Normal, true, false, Defense, 0.85
+Wing Attack, 45, Flying

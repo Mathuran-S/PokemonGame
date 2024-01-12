@@ -1,0 +1,6 @@
+Bulbasaur
+37, 10, 20, 5
+Tackle, Vine Whip
+5
+Grass
+Fire, Bug, Flying

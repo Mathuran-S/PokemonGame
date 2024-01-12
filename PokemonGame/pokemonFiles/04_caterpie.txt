@@ -1,0 +1,5 @@
+Caterpie
+27, 11, 14, 14
+String Shot, Bug Bite
+Bug
+Fire, Flying

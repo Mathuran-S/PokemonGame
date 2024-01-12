@@ -1,0 +1,6 @@
+Squirtle
+32, 13, 17, 13
+Tackle, Water Gun
+5
+Water
+Grass

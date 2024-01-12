@@ -1,0 +1,8 @@
+Name
+HP, Att, Def, Speed
+MoveOne, MoveTwo
+Level(only for starter pokemon, base level is 5 for all)
+Type
+Type Weakness One, Type Weakness Two, ...
+
+*NOTE: EXP to get to next level is determined by Level x 4

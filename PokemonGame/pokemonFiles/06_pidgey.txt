@@ -1,0 +1,5 @@
+Pidgey
+36, 18, 10, 11
+Scratch, Wing Attack
+Flying
+None

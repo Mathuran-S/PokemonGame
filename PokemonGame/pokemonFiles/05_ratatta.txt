@@ -1,0 +1,5 @@
+Ratatta
+32, 12, 8, 21
+Leer, Tackle
+Normal
+None

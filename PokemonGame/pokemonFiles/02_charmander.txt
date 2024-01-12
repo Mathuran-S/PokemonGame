@@ -1,0 +1,6 @@
+Charmander
+25, 18, 9, 15
+Scratch, Ember
+5
+Fire
+Water
